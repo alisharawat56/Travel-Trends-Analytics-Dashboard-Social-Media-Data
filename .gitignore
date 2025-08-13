@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Excel
+*.xlsx
+
+# PostgreSQL dumps
+*.sql
+
+# Tableau workbook files
+*.twb
+*.twbx
+
+# Data files
+*.csv
+*.tsv
+
+# OS
+.DS_Store
+Thumbs.db
