@@ -26,4 +26,5 @@ Analyzed engagement patterns, top destinations, and sentiment with SQL, and buil
 
 ## Credits
 
-Dashboard, code, and documentation by Alisha Rawat. Data cleaning enhanced via Generative AI.
+Dashboard, code, and documentation by Alisha Rawat. Data generated and cleaning enhanced via Generative AI.
+
